@@ -4,7 +4,6 @@ My name is Alex!
 
 - 🌱 I’m currently learning React.
 - 👯 I’d like to participate in work on complex projects with an advanced team.
-- 📫 Contact me: contact@alexbulgakov.ru.
 
 #### My stack
 
