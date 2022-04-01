@@ -7,8 +7,8 @@ My name is Alex!
 
 #### My stack
 
-- HTML, CSS
-- JavaScript
+- HTML with BEM-notation and CSS
+- JavaScript with object-oriented programming
 - React
 - Webpack
 
