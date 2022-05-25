@@ -10,7 +10,10 @@ My name is Alex!
 - HTML with BEM-notation and CSS
 - JavaScript with object-oriented programming
 - React
+- NodeJS, Express, MongoDB
 - Webpack
+
+[![codewars](https://www.codewars.com/users/alexunnt/badges/small)](https://www.codewars.com/users/alexunnt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexunnt&layout=compact)](https://github.com/alexunnt/github-readme-stats)
 
