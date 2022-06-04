@@ -9,9 +9,8 @@ My name is Alex!
 
 - HTML with BEM-notation and CSS
 - JavaScript with object-oriented programming
-- React
+- React, Redux
 - NodeJS, Express, MongoDB
-- Webpack
 
 [![codewars](https://www.codewars.com/users/alexunnt/badges/small)](https://www.codewars.com/users/alexunnt)
 
